@@ -3,7 +3,7 @@
 ## Presentación ver. Español
 
 - Introducción
-![](/img/Presentacion2022img11.jpg|width=100px)
+![img|320x271](/img/Presentacion2022img11.jpg)
 
 ## Presentación ver. Inglés
 
